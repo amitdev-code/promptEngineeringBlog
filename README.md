@@ -117,6 +117,7 @@ Output:
 - Single component file
 - Clear prop types
 - Brief explanation of design decisions
+```
 
 ### Backend: Designing APIs With Future Constraints
 
@@ -142,5 +143,4 @@ Output:
 - Endpoint list
 - Data model outline
 - Notes on scalability and trade-offs
-
 ```
