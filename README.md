@@ -34,6 +34,9 @@ The difference isn’t verbosity — it’s **precision**.
 
 ---
 
+<img width="1536" height="1024" alt="42d97fc4-7e85-44ac-b37d-2b97ff96ae61" src="https://github.com/user-attachments/assets/14e4e8d1-83d5-409d-b03a-259181d50752" />
+
+
 ## Why Prompt Engineering Matters in Vibe Coding
 
 ### 1. It Preserves Flow
