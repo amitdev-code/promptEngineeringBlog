@@ -117,3 +117,30 @@ Output:
 - Single component file
 - Clear prop types
 - Brief explanation of design decisions
+
+### Backend: Designing APIs With Future Constraints
+
+**Prompt**
+```text
+Act as a backend architect.
+
+Design a REST API for a journaling service.
+
+Requirements:
+- Node.js with NestJS
+- PostgreSQL
+- JWT authentication
+- Soft deletes
+- Audit-friendly schema
+
+Considerations:
+- Data privacy
+- Future analytics
+- Clean separation of domain logic
+
+Output:
+- Endpoint list
+- Data model outline
+- Notes on scalability and trade-offs
+
+```
